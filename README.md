@@ -38,7 +38,7 @@ To use the DuckDuckGo AI Chat CLI, you need to have **Go** installed on your sys
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/duckduckgo-ai-chat-cli.git
+   git clone https://github.com/boredom1234/duckduckgo-ai-chat-cli.git
    cd duckduckgo-ai-chat-cli
    ```
 
